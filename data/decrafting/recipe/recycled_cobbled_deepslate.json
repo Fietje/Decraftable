@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": [
+    "minecraft:cobbled_deepslate_stairs",
+    "minecraft:cobbled_deepslate_wall"
+  ],
+  "result": {
+    "id": "minecraft:cobbled_deepslate"
+  }
+}

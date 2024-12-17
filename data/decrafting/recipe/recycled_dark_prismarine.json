@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": [
+    "minecraft:dark_prismarine_stairs"
+  ],
+  "result": {
+    "id": "minecraft:dark_prismarine"
+  }
+}

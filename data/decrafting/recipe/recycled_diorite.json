@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": [
+    "minecraft:diorite_stairs",
+    "minecraft:diorite_wall",
+    "minecraft:polished_diorite",
+    "minecraft:polished_diorite_stairs"
+  ],
+  "result": {
+    "id": "minecraft:diorite"
+  }
+}

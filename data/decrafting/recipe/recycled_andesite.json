@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": [
+    "minecraft:andesite_stairs",
+    "minecraft:andesite_wall",
+    "minecraft:polished_andesite",
+    "minecraft:polished_andesite_stairs"
+  ],
+  "result": {
+    "id": "minecraft:andesite"
+  }
+}

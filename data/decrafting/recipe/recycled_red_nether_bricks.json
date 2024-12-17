@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": [
+    "minecraft:red_nether_brick_stairs",
+    "minecraft:red_nether_brick_wall"
+  ],
+  "result": {
+    "id": "minecraft:red_nether_bricks"
+  }
+}

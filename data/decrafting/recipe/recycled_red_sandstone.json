@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": [
+    "minecraft:red_sandstone_stairs",
+    "minecraft:red_sandstone_wall",
+    "minecraft:chiseled_red_sandstone",
+    "minecraft:cut_red_sandstone",
+    "minecraft:smooth_red_sandstone",
+    "minecraft:smooth_red_sandstone_stairs"
+  ],
+  "result": {
+    "id": "minecraft:red_sandstone"
+  }
+}

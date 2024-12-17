@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": [
+    "minecraft:nether_brick_stairs",
+    "minecraft:nether_brick_wall",
+    "minecraft:chiseled_nether_bricks",
+    "minecraft:cracked_nether_bricks"
+  ],
+  "result": {
+    "id": "minecraft:nether_bricks"
+  }
+}

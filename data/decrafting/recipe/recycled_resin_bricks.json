@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": [
+    "minecraft:resin_brick_stairs",
+    "minecraft:resin_brick_wall",
+    "minecraft:chiseled_resin_bricks"
+  ],
+  "result": {
+    "id": "minecraft:resin_bricks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": "#decrafting:recyclable_granite",
+  "result": {
+    "id": "minecraft:granite"
+  }
+}

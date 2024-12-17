@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:bricks"
+  ],
+  "result": {
+    "id": "minecraft:brick",
+    "components": {},
+    "count": 4
+  }
+}

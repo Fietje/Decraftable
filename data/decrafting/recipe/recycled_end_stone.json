@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": [
+    "minecraft:end_stone_brick_stairs",
+    "minecraft:end_stone_brick_wall",
+    "minecraft:end_stone_bricks"
+  ],
+  "result": {
+    "id": "minecraft:end_stone"
+  }
+}

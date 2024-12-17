@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": [
+    "minecraft:purpur_pillar",
+    "minecraft:purpur_stairs"
+  ],
+  "result": {
+    "id": "minecraft:purpur_block"
+  }
+}

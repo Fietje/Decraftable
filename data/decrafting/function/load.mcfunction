@@ -1,0 +1,1 @@
+tellraw @a [{"bold":false,"color":"blue","text":"Decrafting"},{"bold":false,"color":"gray","text":" by "},{"bold":false,"color":"gold","text":"Fietje"},{"bold":false,"color":"gray","text":" (inspired by "},{"bold":false,"color":"aqua","text":"Etho"},{"color":"gray","text":"): "},{"color":"green","text":"Enabled"},{"color":"gray","text":"!"}]

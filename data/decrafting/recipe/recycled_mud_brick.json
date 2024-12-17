@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": [
+    "minecraft:mud_brick_stairs",
+    "minecraft:mud_brick_wall"
+  ],
+  "result": {
+    "id": "minecraft:mud_bricks"
+  }
+}
