@@ -2,7 +2,7 @@
 
 ![Decraftable Icon](/pack.png)
 
-This data pack adds multiple new recepies to the game to recycle different blocks, like Walls and Stairs back into there original block.
+This data pack adds multiple new recepies to the game to recycle different blocks, like Walls and Stairs back into their original block.
 
 The pack was inspired by the Youtuber [Etho](https://www.youtube.com/@EthosLab) in the following video: [Etho Plays Minecraft - Episode 589: Obsidian Blasting](https://youtu.be/M-pbAW2To-Y?t=527).
 
@@ -18,7 +18,7 @@ Data Pack for Minecraft Version: **1.21.4 and above**
 
 | Recycable Blocks | | Recycables to block |
 | ----------- | ----------- | ----------- |
-| <ul><li>andesite_stairs</li><li>andesite_wall</li><li>polished_andesite</li><li>polished_andesite_stairs</li></ul> | >> | Andesite |
+| <ul><li>andesite_stairs</li><li>andesite_wall</li><li>polished_andesite</li><li>polished_andesite_stairs</li></ul> | >> | andesite |
 | <ul><li>polished_basalt</li></ul> | >> | basalt |
 | <ul><li>blackstone_stairs</li><li>blackstone_wall</li><li>chiseled_polished_blackstone</li><li>cracked_polished_blackstone_bricks</li><li>polished_blackstone</li><li>polished_blackstone_brick_stairs</li><li>polished_blackstone_brick_wall</li><li>polished_blackstone_bricks</li><li>polished_blackstone_stairs</li><li>polished_blackstone_wall</li></ul> | >> | blackstone |
 | <ul><li>brick_stairs</li><li>brick_wall</li></ul> | >> | bricks |
